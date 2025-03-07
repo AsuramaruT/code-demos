@@ -1,0 +1,9 @@
+Copyright (C) 2025 Marco Funes
+
+All rights reserved.
+
+This source code and its associated files may not be copied, modified, distributed, or used in any way without the explicit written consent of the owner.
+
+Commercial use and redistribution of this software in any form are expressly prohibited without authorization.
+
+If you wish to obtain permission to use this code, please contact marcofunes@ephirium.com.
